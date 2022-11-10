@@ -1,0 +1,9 @@
+.dataTables_scrollBody {
+  display: block;
+}
+
+@media print {
+  .dataTables_scrollBody {
+      display: none;
+  }
+}
